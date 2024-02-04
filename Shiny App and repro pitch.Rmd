@@ -1,0 +1,53 @@
+---
+title: "Course Project: Shiny Application and Reproducible Pitch"
+author: "Cuong Pham V"
+date: "2024-02-04"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Sample size calculation
+
+Calculating the sample size for a simple random sample of a proportion is a crucial step in designing statistically valid surveys or experiments.
+
+This Shiny app is designed to streamline the process of determining sample sizes for proportions in statistical studies
+
+
+
+## Sample size fomular
+
+\[
+n = \frac{z^2 \cdot p \cdot (1-p)}{E^2}
+\]
+
+where:
+
+- \( n \) is the sample size.
+- \( z \) is the z-score corresponding to the desired confidence level.
+- \( p \) is the estimated proportion.
+- \( E \) is the margin of error.
+
+
+## How to use 
+
+
+Change the Proportion*(p)*, Marginal Error*(e)* and Confidence level *(cl)* then press Calculate for your **sample size**
+
+![Alt Text](/Users/cuongpham/Desktop/screen.jpg) {width=50%}
+
+## Complete Reporting Application
+
+Click the Below Link for the Application.
+
+https://vp0d2b-cuong-pham.shinyapps.io/SampleSize/
+
+Click the link below for compiled project files on gitub repo.
+
+https://github.com/cuongphamv/DevelopingDataPro
+
+
+<span style="color:red">**THANK YOU ** </span>
+
