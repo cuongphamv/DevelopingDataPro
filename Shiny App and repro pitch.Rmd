@@ -33,10 +33,11 @@ where:
 
 ## How to use 
 
+![Alt Text](/Users/cuongpham/Desktop/screen.jpg) {width=50%}
 
 Change the Proportion*(p)*, Marginal Error*(e)* and Confidence level *(cl)* then press Calculate for your **sample size**
 
-![Alt Text](/Users/cuongpham/Desktop/screen.jpg) {width=50%}
+
 
 ## Complete Reporting Application
 
@@ -44,7 +45,7 @@ Click the Below Link for the Application.
 
 https://vp0d2b-cuong-pham.shinyapps.io/SampleSize/
 
-Click the link below for compiled project files on gitub repo.
+Click the link below for compiled project files on github repo.
 
 https://github.com/cuongphamv/DevelopingDataPro
 
